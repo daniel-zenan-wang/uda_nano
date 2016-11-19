@@ -1,0 +1,34 @@
+/* add your CSS here */
+.dogPic {
+  width: 300px;
+  border: 1px solid black;
+
+}
+
+.funFact {
+  font-style: italic;
+}
+
+#lable {
+  font-weight: bold;
+}
+
+#listType {
+  list-style-type: none;
+}
+
+.nameBorder {
+  border: 1px solid #DCDCDC;
+  width: 310px;
+  padding: 0px 10px 10px 10px;
+  background-color: yellow;
+
+
+}
+
+.info {
+  border: 1px solid #DCDCDC;
+  width: 300px;
+  background-color: red;
+
+}
